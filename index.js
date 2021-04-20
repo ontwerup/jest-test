@@ -5,12 +5,19 @@ function add(num1, num2) {
   return sum;
 }
 
+
+
+// Marij
 function multiply(num1, num2, num3) {
-  //   console.log("INPUT", num1, num2, num3);
-  const sum = num1 + num2 + num3;
-  //   console.log("SUM", sum);
+  // console.log("Werkt dit?")
+  console.log("INPUT", num1, num2, num3);
+  const sum = num1 * num2 * num3;
+    console.log("SUM", sum);
   return sum;
 }
+
+
+
 
 function findByName(users, name) {
   //   console.log("INPUT:", users, name);

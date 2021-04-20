@@ -2,9 +2,9 @@
 
 Maak een programmeer oefening voor een ander!
 
-1. [x] Bedenk zelf een functie en schrijf die in index.js
-2. [x] Exporteer hem uit index.js en importeer hem in index.test.js
-3. [x] Voeg jest test(s) toe in index.test.js die de functie test
+1. [xx] Bedenk zelf een functie en schrijf die in index.js
+2. [xx] Exporteer hem uit index.js en importeer hem in index.test.js
+3. [xx] Voeg jest test(s) toe in index.test.js die de functie test
 4. [x] Maak een commit
 
 5. [x] Voeg een git repo toe aan je project
