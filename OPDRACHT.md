@@ -5,14 +5,14 @@ Maak een programmeer oefening voor een ander!
 1. [xx] Bedenk zelf een functie en schrijf die in index.js
 2. [xx] Exporteer hem uit index.js en importeer hem in index.test.js
 3. [xx] Voeg jest test(s) toe in index.test.js die de functie test
-4. [x] Maak een commit
+4. [xx] Maak een commit
 
-5. [x] Voeg een git repo toe aan je project
-6. [x] Push je main branch
-7. [x] Switch naar een branch "solutions"
-8. [x] Push je solutions branch
-9. [x] Switch naar de main branch
-10. [x] Verwijder je oplossing (zodat iemand je test kan oplossen)
+5. [xx] Voeg een git repo toe aan je project
+6. [xx] Push je main branch
+7. [xx] Switch naar een branch "solutions"
+8. [xx] Push je solutions branch
+9. [xx] Switch naar de main branch
+10. [xx] Verwijder je oplossing (zodat iemand je test kan oplossen)
 11. [x] Push nogmaals naar de main branch
 
 Wil je een oefening maken?

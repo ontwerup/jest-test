@@ -8,12 +8,8 @@ function add(num1, num2) {
 
 
 // Marij
-function multiply(num1, num2, num3) {
-  // console.log("Werkt dit?")
-  console.log("INPUT", num1, num2, num3);
-  const sum = num1 * num2 * num3;
-    console.log("SUM", sum);
-  return sum;
+function multiply() {
+// WRITE ME
 }
 
 
