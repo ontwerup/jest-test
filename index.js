@@ -5,8 +5,11 @@ function add(num1, num2) {
   return sum;
 }
 
-function multiply() {
-  // WRITE ME!
+function multiply(num1, num2, num3) {
+  //   console.log("INPUT", num1, num2, num3);
+  const sum = num1 + num2 + num3;
+  //   console.log("SUM", sum);
+  return sum;
 }
 
 function findByName(users, name) {
